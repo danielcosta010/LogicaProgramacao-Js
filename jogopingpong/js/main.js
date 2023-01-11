@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js"></script>
-    
-
-    <script src="https://kit.fontawesome.com/a13f95c19e.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="../../../css/style.css">
-    <link rel="shortcut icon" href="../../../img/favicon.png" type="image/x-icon">
-
-    <title>Jogo | PingPong</title>
-
-  </head>
-  <body>
-    
-    <section class="instrucoes">
-      <p>Use as teclas a e z para movimentar a raquete da esquerda.</p>
-      <p>Use as teclas up e down para movimentara a raquete da direita</p>
-      <button type="button" class="instrucoes__button"><a class="instrucoes__link" href="../jogofreeway/freeway.html">Jogo Freeway <i class="fa-solid fa-circle-right"></i></a></button>
-    </section>
-    
-   
-    <script>
-      //variáveis da bolinha
+//variáveis da bolinha
       let xBolinha = 300;
       let yBolinha = 200;
       let diametro = 20;
@@ -171,8 +143,3 @@
           xBolinha = 23
           }
       }
-      
-
-    </script>
-  </body>
-</html>

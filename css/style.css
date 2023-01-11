@@ -1,0 +1,14 @@
+.instrucoes__button {
+  margin-bottom: 15px;
+  padding: 10px 15px;
+}
+.instrucoes__link {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  text-decoration: none;
+  text-align: center;
+}
+.fa-solid {
+  font-size: 1.5rem;
+}
