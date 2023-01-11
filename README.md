@@ -11,7 +11,7 @@
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
  Lógica de programção com JavaScript, praticando com dois jogos:
  
- <img width="600" src="" alt="capa jogo PingPong">
+ <img width="600" src="https://github.com/danielcosta010/LogicaProgramacao-Js/blob/main/img/capaPingPong.png" alt="capa jogo PingPong">
  
- <img width="600" src="" alt="capa jogo FreeWay">
+ <img width="600" src="https://github.com/danielcosta010/LogicaProgramacao-Js/blob/main/img/capaFreeWay.png" alt="capa jogo FreeWay">
 
