@@ -5,7 +5,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Site Portfólio**
 | :label: Tecnologias | HTML5, CSS3, JavaScript
-| :rocket: URL         | https://danielcosta010.github.io/portfolio/
+| :rocket: URL         | https://danielcosta010.github.io/portfolio/assets/cursos/logicadeprogramacao/jogopingpong/index.html
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
