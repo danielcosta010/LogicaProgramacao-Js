@@ -5,13 +5,13 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Site Portfólio**
 | :label: Tecnologias | HTML5, CSS3, JavaScript
-| :rocket: URL         | https://danielcosta010.github.io/portfolio/assets/cursos/logicadeprogramacao/jogopingpong/index.html
+| :rocket: URL         | <a href="https://danielcosta010.github.io/portfolio/assets/cursos/logicadeprogramacao/jogopingpong/index.html" target="_blank">Acesse o Projeto Aqui!</a>
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
  Lógica de programção com JavaScript, praticando com dois jogos:
  
- <img width="600" src="https://github.com/danielcosta010/LogicaProgramacao-Js/blob/main/img/capaPingPong.png" alt="capa jogo PingPong">
+ <img width="600" src="https://github.com/danielcosta010/LogicaProgramacao-Js/blob/main/img/capaPingPong.png#vitrinedev" alt="capa jogo PingPong">
  
- <img width="600" src="https://github.com/danielcosta010/LogicaProgramacao-Js/blob/main/img/capaFreeWay.png" alt="capa jogo FreeWay">
+ <img width="600" src="https://github.com/danielcosta010/LogicaProgramacao-Js/blob/main/img/capaFreeWay.png#vitrinedev" alt="capa jogo FreeWay">
 
