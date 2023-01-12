@@ -3,7 +3,7 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Site Portfólio**
+| :sparkles: Nome        | **Lógica de Programação**
 | :label: Tecnologias | HTML5, CSS3, JavaScript
 | :rocket: URL         | <a href="https://danielcosta010.github.io/portfolio/assets/cursos/logicadeprogramacao/jogopingpong/index.html" target="_blank">Acesse o Projeto Aqui!</a>
 | :fire: Desafio     | https://url-do-desafio.com.br
